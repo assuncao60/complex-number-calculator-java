@@ -1,5 +1,3 @@
-# complex-number-calculator-java
-
 # Complex Number Calculator with Dynamic History
 
 An interactive command-line application developed in Java, focused on complex number mathematics and advanced memory management. This project was awarded a grade of **19.1/20** in the Object-Oriented Programming (OOP) course.
