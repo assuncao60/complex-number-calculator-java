@@ -18,9 +18,3 @@ An interactive command-line application developed in Java, focused on complex nu
 
 * **Language:** Java
 * **Core Components:** `ArrayList`, `Scanner`, `FileWriter`, and `File`
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/complex-number-calculator-java.git](https://github.com/your-username/complex-number-calculator-java.git)
